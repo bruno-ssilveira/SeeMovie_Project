@@ -26,5 +26,9 @@ public class Main {
                 Recomendo de verdade que assistam.
                 """;
         System.out.println(pulaLinha);
+
+        int classificacao;
+        classificacao = (int) media / 2;
+        System.out.println(classificacao);
     }
 }
